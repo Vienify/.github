@@ -21,13 +21,12 @@
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-## Who We Are
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=600&color=D97706&center=true&vCenter=true&width=760&lines=A+software+studio+focused+on+the+creator+economy;Every+story+deserves+a+beautiful+voice;We+build+the+tools+that+give+it+one" alt="About" />
 </p>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/MISSION-F59E0B?style=for-the-badge" /><br/><br/>
@@ -42,7 +41,7 @@
       Small team, sharp tools,<br/>obsessive attention to UX.
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 
