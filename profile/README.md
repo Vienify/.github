@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <sub>Copyright 2026 Vienify Software. All rights reserved. Made in Vietnam.</sub>
+  <sub>Copyright 2026 Vienify Software. All rights reserved.</sub>
 </p>
