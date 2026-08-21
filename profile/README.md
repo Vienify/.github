@@ -21,9 +21,7 @@
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=4F46E5&text=Who%20We%20Are&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Who we are" width="100%" />
-</p>
+## Who We Are
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=600&color=6366F1&center=true&vCenter=true&width=760&lines=A+software+studio+focused+on+the+creator+economy;Every+story+deserves+a+beautiful+voice;We+build+the+tools+that+give+it+one" alt="About" />
@@ -50,9 +48,7 @@
 
 <!-- ═══════════════════════ PRODUCTS ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=4F46E5&text=Our%20Products&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Our products" width="100%" />
-</p>
+## Our Products
 
 <table align="center" width="100%">
   <tr>
@@ -77,9 +73,7 @@
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=4F46E5&text=Technologies%20We%20Love&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Technologies" width="100%" />
-</p>
+## Technologies We Love
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,prisma,mysql,docker,git,figma,vscode&perline=6" alt="Tech stack" /></a>
@@ -89,9 +83,7 @@
 
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=4F46E5&text=Work%20With%20Us&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Work with us" width="100%" />
-</p>
+## Work With Us
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=680&lines=Always+excited+to+meet+creators%2C+partners+and+engineers;Drop+us+a+line+%E2%80%94+we+reply+fast" alt="Contact" />
